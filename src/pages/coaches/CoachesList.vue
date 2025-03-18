@@ -21,7 +21,7 @@
     <section>
         <base-card>
             <div class="controls">
-                <base-button mode="outline" link="false" to="">
+                <base-button mode="outline" :link="false" to="">
                     Refresh
                 </base-button>
 
